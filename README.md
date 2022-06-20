@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Victor
-- 👀 I’m interested in Data Science and ML
-- 🌱 Now I'm studying at yandex.practicum with a specialization in DS+.
-- 📫 You can reach me via https://www.linkedin.com/in/victor-morozov-724351a5/
+- 👋 Привет, я Морозов Виктор
+- 👀 Сейчас я учусь в yandex.practicum по специализации DS+.
+- 📫 Вы можете связаться со мной https://www.linkedin.com/in/victor-morozov-724351a5/
 
-Моя статистика на LeetCode:
+## Мои проекты:    
+### Heart-diseases-prediction (Kaggle)  
+**Ссылка:** https://github.com/vik1109/Heart-diseases-prediction  
+**Описание:** Построить модель машинного обучения, которая по табличным данным предсказывает вероятность наличия скрытых проблем у пациентов, проходящих регулярную диспансеризацию. Для определения качества работы модели использовалась метриска ROC-AUC.  
+**Используемые библиотеки:** pandas, CatBoost, sklearn, mathplotlib  
+
+## Моя статистика на LeetCode:
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Morozov_Victor)](https://github.com/KnlnKS/leetcode-stats)
