@@ -13,4 +13,4 @@
 
 ## Моя статистика на LeetCode:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Morozov_Victor)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Morozov_Victor)](https://leetcode.com/Morozov_Victor/)
