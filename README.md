@@ -12,9 +12,9 @@
 
 | Название                                                     | Описание                                                     | Библиотеки                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [GlowByte Autumn Hack 2022](https://datapeople.ru/glowbytehack2022) | Задача - создать таблицы измерений, таблицы фактов и исторические витрины. Решение заняло 3-е место. | pandas, SQL, SQLAlchemy                     |
 | [Heart-diseases-prediction (Kaggle)](https://github.com/vik1109/Heart-diseases-prediction) | Построить модель машинного обучения, которая по табличным данным предсказывает вероятность наличия скрытых проблем у пациентов, проходящих регулярную диспансеризацию. Для определения качества работы модели использовалась метрика ROC-AUC. | pandas, CatBoost, sklearn, mathplotlibpandas, CatBoost, sklearn, mathplotlib |
 | [Хакатон AGROHACK 2022](https://github.com/vik1109/AgroTeam) | Рабочие ноутбуки и материалы с Хакатона AGROHACK 2022, кейс "Болезни коров", команда AGROTEAM | pandas, CatBoost, sklearn, mathplotlib                       |
-| [GlowByte Autumn Hack 2022](https://datapeople.ru/glowbytehack2022) | Задача - создать таблицы измерений, таблицы фактов и исторические витрины | pandas, SQL, SQLAlchemy                     |
 
 ## Учебные проекты:
 
